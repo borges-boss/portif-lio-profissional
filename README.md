@@ -4,7 +4,7 @@ Sou desenvolvedor Full Stack de Belo Horizonte e gosto principalmente de constru
 
 No front-end, trabalho com **React e Next.js**. No back-end, tenho experiência com **.NET, Java e Node.js**, além de bancos relacionais e APIs REST.
 
-Já trabalhei em projetos para a **Vale**, desenvolvendo micro-frontends em React e APIs com .NET e Java. Hoje também tenho focado bastante em projetos próprios, principalmente sistemas de gestão e ferramentas que resolvem problemas reais.
+Já trabalhei em projetos para a **Vale**, desenvolvendo micro-frontends em React e APIs com .NET e Java. Hoje também tenho focado bastante em projetos próprios, principalmente sistemas de gestão.
 
 ## Tecnologias que mais uso
 
@@ -37,12 +37,10 @@ Gosto de projetos que começam com um problema de verdade. Normalmente me intere
 
 Também gosto bastante de arquitetura, APIs, integrações e de pensar em formas de deixar um código mais fácil de entender e evoluir.
 
-Atualmente curso **Sistemas de Informação** e continuo desenvolvendo projetos próprios enquanto aprofundo meus conhecimentos em desenvolvimento Full Stack.
+Atualmente curso **Sistemas de Informação** e continuo desenvolvendo projetos próprios enquanto aprofundo meus conhecimentos.
 
 ## Contato
 
 📧 [borges.diorato@gmail.com](mailto:borges.diorato@gmail.com)
 
 ---
-
-Sempre tem alguma coisa nova sendo construída por aqui. 🙂
