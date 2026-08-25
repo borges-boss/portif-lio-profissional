@@ -1,8 +1,8 @@
 # Oi, eu sou o Gabriel 👋
 
-Sou desenvolvedor Full Stack de Belo Horizonte e gosto principalmente de construir sistemas de ponta a ponta entender o problema, pensar nas regras de negócio e transformar tudo isso em uma aplicação que realmente funcione.
+Sou desenvolvedor Full Stack de Belo Horizonte e gosto principalmente de construir sistemas de ponta a ponta, entender o problema e transformar tudo isso em uma aplicação que realmente funcione.
 
-No front-end, trabalho com **React e Next.js**. No back-end, tenho experiência com **.NET, Java e Node.js**, além de bancos relacionais e APIs REST.
+No front-end, trabalho com **React e Next.js**. No back-end, tenho experiência com **.NET, Java e Node.js**, além de bancos relacionais como MySQL e SQL Server.
 
 Já trabalhei em projetos para a **Vale**, desenvolvendo micro-frontends em React e APIs com .NET e Java. Hoje também tenho focado bastante em projetos próprios, principalmente sistemas de gestão.
 
